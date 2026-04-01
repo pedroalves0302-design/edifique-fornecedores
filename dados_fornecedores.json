@@ -1,0 +1,2415 @@
+{
+  "ultima_atualizacao": "2026-03-31T15:50:17.401103",
+  "fornecedores": [
+    {
+      "nome": "Casa Mimosa",
+      "categoria": "Acabamentos Eletricos",
+      "telefone": "11 95220-0120",
+      "email": "salvador@casamimosa.com.br",
+      "cnpj": "",
+      "contato": "Rafael Salvador",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Bom Calor",
+      "categoria": "Aquecimento",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Jaqueline e Fernando; Letícia e Lucas; Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "AR7 Climatização",
+      "categoria": "Ar Condicionado",
+      "telefone": "(11) 97271-6328",
+      "email": "gabriela.dorado@ar7.com.br",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "—",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "DELTA-T",
+      "categoria": "Ar Condicionado",
+      "telefone": "11 94701-6699",
+      "email": "",
+      "cnpj": "",
+      "contato": "Rodrigo",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Ecotemp",
+      "categoria": "Ar Condicionado",
+      "telefone": "",
+      "email": "",
+      "cnpj": "14.332.568/0001-14",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Bárbara; Giovana e Hugo; Jaqueline e Fernando; Patricia e Luiz Claudio (Piteco); Ritha e Adilson; Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Mafra Emporio",
+      "categoria": "Ar Condicionado",
+      "telefone": "(11) 4207-1327",
+      "email": "N/D",
+      "cnpj": "10.666.647/0001-00",
+      "contato": "",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "Milene e Roger",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Sulfrio",
+      "categoria": "Ar Condicionado",
+      "telefone": "11 99114-7646",
+      "email": "jane@sulfrioservice.com.br",
+      "cnpj": "",
+      "contato": "Jane ou Rodrigo",
+      "clientes_orcados": "Aliene e José Martinho; Bárbara; Cristian e Luciano; Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Full Control",
+      "categoria": "Automacao",
+      "telefone": "11 95001-1008",
+      "email": "",
+      "cnpj": "",
+      "contato": "Jhonatan",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "HIGHEND",
+      "categoria": "Automacao",
+      "telefone": "11 97276-5697",
+      "email": "",
+      "cnpj": "",
+      "contato": "Alexandre",
+      "clientes_orcados": "Patricia e Luiz Claudio (Piteco)",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Marcos Henrique",
+      "categoria": "Automacao",
+      "telefone": "62 8284-4852",
+      "email": "jhonatan.b@fullcontrolautomacao.com.br",
+      "cnpj": "",
+      "contato": "Marcos Henrique",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Fator Tecidos",
+      "categoria": "Cortinas e Persianas",
+      "telefone": "(11) 2304-5621",
+      "email": "N/D",
+      "cnpj": "55.726.436/0001-54",
+      "contato": "",
+      "clientes_orcados": "—",
+      "clientes_fechados": "Sally e Yossef",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Fernando Perez",
+      "categoria": "Cortinas e Persianas",
+      "telefone": "65 9802-9707",
+      "email": "",
+      "cnpj": "",
+      "contato": "Fernanda",
+      "clientes_orcados": "Esther e Yossi; Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "GF Premium",
+      "categoria": "Cortinas e Persianas",
+      "telefone": "11 97271-4839",
+      "email": "gustavo@gfdecora.com.br",
+      "cnpj": "",
+      "contato": "Gustavo",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Miele",
+      "categoria": "Eletrodomesticos",
+      "telefone": "(11) 3061-0430",
+      "email": "",
+      "cnpj": "33.304.287/0001-00",
+      "contato": "",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Enjoy",
+      "categoria": "Eletrodomesticos Gourmet",
+      "telefone": "94014-0922",
+      "email": "",
+      "cnpj": "",
+      "contato": "Jessica Braga",
+      "clientes_orcados": "Aliene e José Martinho; Bárbara; Esther e Yossi; Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "UD House",
+      "categoria": "Eletrodomesticos Gourmet",
+      "telefone": "11 93050-8726",
+      "email": "magali@udhouse.com.br",
+      "cnpj": "",
+      "contato": "Magali Melo",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Marcelo Empreiteiro",
+      "categoria": "Empreiteiros",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Carol e Moises",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Ronilson Empreiteiro",
+      "categoria": "Empreiteiros",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Patricia e Luiz Claudio (Piteco)",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Rui",
+      "categoria": "Empreiteiros",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Estruturas JB",
+      "categoria": "Engenharia",
+      "telefone": "(11) 3686-3343",
+      "email": "jb@estruturasjb.com.br",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "—",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "ItaúNa Minerita",
+      "categoria": "Engenharia",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Minas Mais",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Protecnica",
+      "categoria": "Engenharia",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Esther e Yossi",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Alumi",
+      "categoria": "Esquadrias",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Ritha e Adilson",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Brigate",
+      "categoria": "Esquadrias",
+      "telefone": "11942651159",
+      "email": "jbrigate.esquadrias@gmail.com",
+      "cnpj": "",
+      "contato": "DIEGO",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Cinex",
+      "categoria": "Esquadrias",
+      "telefone": "(11) 5042-7590",
+      "email": "contatosp@cinex.com.br",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Jaqueline e Fernando; Milene e Roger",
+      "clientes_fechados": "Milene e Roger",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Domus",
+      "categoria": "Esquadrias",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Bárbara; Giovana e Hugo; Letícia e Lucas; Ritha e Adilson; Rosemar e Jaime; Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Via Aluminio",
+      "categoria": "Esquadrias",
+      "telefone": "",
+      "email": "",
+      "cnpj": "05.974.288/0001-19",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Jaqueline e Fernando; Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "BelColore",
+      "categoria": "Estofados / Sofás",
+      "telefone": "11 99656-3280",
+      "email": "N/D",
+      "cnpj": "N/D",
+      "contato": "Gabriela",
+      "clientes_orcados": "Carol e Moises; Fabiana e Caio Carneiro; Rodolfo Oliveira; Sally e Yossef; Tatiana e Claudinei",
+      "clientes_fechados": "Carol e Moises",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Alceu",
+      "categoria": "Formica",
+      "telefone": "11 99610-2235",
+      "email": "",
+      "cnpj": "",
+      "contato": "Alceu",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Simples Molde",
+      "categoria": "Gesso",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Tensoflex",
+      "categoria": "Gesso",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Esther e Yossi",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Uniplac",
+      "categoria": "Gesso",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Esther e Yossi",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "AdeArte",
+      "categoria": "Iluminacao",
+      "telefone": "N/D",
+      "email": "barbarabrandao@adeartebrasil.com",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Bárbara; Carol e Moises; Daniela e Yarllei; Eliane e Celso; Esther e Yossi; Giovana e Hugo; Jaqueline e Fernando; Letícia e Lucas; Luisa e Jadder; Maria Aparecida e Edson - (Joelson); Milene e Roger; Patricia e Luiz Claudio (Piteco); Simone Guindi; Tatiana e Claudinei",
+      "clientes_fechados": "Carol e Moises",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Aura Luminati",
+      "categoria": "Iluminacao",
+      "telefone": "11 96267-2705",
+      "email": "",
+      "cnpj": "",
+      "contato": "David Grabarz",
+      "clientes_orcados": "Esther e Yossi; Gecini Alphaville Tamboré; Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Celdom",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Dimlux",
+      "categoria": "Iluminacao",
+      "telefone": "86 8863-3551",
+      "email": "dimlux@dimlux.com.br",
+      "cnpj": "",
+      "contato": "Glaucilane Costa",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Labluz",
+      "categoria": "Iluminacao",
+      "telefone": "(11) 3218-2788",
+      "email": "labluzsp@labluz.com.br",
+      "cnpj": "72.811.581/0001-52",
+      "contato": "Rodrigo",
+      "clientes_orcados": "Fabiana e Caio Carneiro; Milene e Roger; Nandra e Eduardo",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Lampadario",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Eliane e Celso; Iara e Marcelo; Ivone e Kelson; Maria Aparecida e Edson - (Joelson); Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Lampur",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Lumini",
+      "categoria": "Iluminacao",
+      "telefone": "(11) 3898-0222",
+      "email": "luciane.carrega@lumini.com.br",
+      "cnpj": "40.418.865/0003-59",
+      "contato": "Luciane Siqueira",
+      "clientes_orcados": "Gecini Alphaville Tamboré; Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Magia e Luz",
+      "categoria": "Iluminacao",
+      "telefone": "(31) 3296-1494",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Iara e Marcelo; Ivone e Kelson",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Marcello Bellotto",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Marcos Fanucchi",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Merci Iluminacao",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Nandra e Eduardo; Rodolfo - Fazenda Boa Vista; Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "On Light",
+      "categoria": "Iluminacao",
+      "telefone": "(11) 3081-3282",
+      "email": "gerencia@onlight.com.br",
+      "cnpj": "10.708.190/0001-50",
+      "contato": "Fernanda",
+      "clientes_orcados": "Milene e Roger; Rodolfo Oliveira",
+      "clientes_fechados": "Milene e Roger",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Quatri",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Samlux",
+      "categoria": "Iluminacao",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Esther e Yossi",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Femaclean",
+      "categoria": "Limpeza",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Sally e Yossef",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Casa Reis",
+      "categoria": "Loucas e Metais",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Ivone e Kelson",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Deca",
+      "categoria": "Loucas e Metais",
+      "telefone": "11 94860-0080",
+      "email": "alisson@positanodesign.com.br",
+      "cnpj": "",
+      "contato": "Alisson",
+      "clientes_orcados": "Bella e Samuelle; Esther e Yossi",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Docol",
+      "categoria": "Loucas e Metais",
+      "telefone": "4007-1380",
+      "email": "",
+      "cnpj": "75.339.051/0011-13",
+      "contato": "",
+      "clientes_orcados": "Bella e Samuelle",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Kohler",
+      "categoria": "Loucas e Metais",
+      "telefone": "11 94387-5065",
+      "email": "raquel.oliveira@kohler.com",
+      "cnpj": "",
+      "contato": "Raquel",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "LouçAs Metais Roca",
+      "categoria": "Loucas e Metais",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jacques",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Positano",
+      "categoria": "Loucas e Metais",
+      "telefone": "(11) 3675-1730",
+      "email": "positano@positanodesign.com.br",
+      "cnpj": "10.349.826/0001-14",
+      "contato": "",
+      "clientes_orcados": "Milene e Roger; Nandra e Eduardo",
+      "clientes_fechados": "Milene e Roger",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Tekai",
+      "categoria": "Loucas e Metais",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Bárbara; Giovana e Hugo; Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Vallve",
+      "categoria": "Loucas e Metais",
+      "telefone": "(11) 3060-2444",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Bella e Samuelle",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Viveza",
+      "categoria": "Loucas e Metais",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Bárbara; Eliane e Celso; Isabella e Júnior; Ivone e Kelson; Luisa e Jadder; Ritha e Adilson; Sirlei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Adriano Marcenaria",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Patricia e Luiz Claudio (Piteco)",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Ana Minele",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Bontempo",
+      "categoria": "Marcenaria",
+      "telefone": "11 98895-7178",
+      "email": "rogerio.dellia@gabriel.bontempo.com.br",
+      "cnpj": "N/D",
+      "contato": "Rogerio",
+      "clientes_orcados": "Aliene e José Martinho; Carol e Moises; Daniela e Yarllei; Nandra e Eduardo; Sally e Yossef",
+      "clientes_fechados": "Carol e Moises; Sally e Yossef",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Daniel",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Simone Guindi",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Fernando Jaeger",
+      "categoria": "Marcenaria",
+      "telefone": "01138668500 / 11940713132",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Florence",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Nandra e Eduardo",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Florense",
+      "categoria": "Marcenaria",
+      "telefone": "11 98894-8165",
+      "email": "",
+      "cnpj": "",
+      "contato": "Fabiana Marcolino",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Floresta",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Sally e Yossef",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Furlan Marcenaria",
+      "categoria": "Marcenaria",
+      "telefone": "11 94705-2065",
+      "email": "comercial@dfurlan.com.br",
+      "cnpj": "",
+      "contato": "Ricardo",
+      "clientes_orcados": "Gecini Alphaville Tamboré",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Gil Fialho",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Sandra e Tedy",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "ID Moveis",
+      "categoria": "Marcenaria",
+      "telefone": "11 95990-6385",
+      "email": "",
+      "cnpj": "",
+      "contato": "Willian",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Kitchens",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Layanne",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Malta Design",
+      "categoria": "Marcenaria",
+      "telefone": "11 98643-7767",
+      "email": "",
+      "cnpj": "",
+      "contato": "Marcos",
+      "clientes_orcados": "Fabiana e Caio Carneiro",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Marcos",
+      "categoria": "Marcenaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Sally e Yossef",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Novaes Marcenaria",
+      "categoria": "Marcenaria",
+      "telefone": "(11) 3862-3424",
+      "email": "rosanna_novaesferreira@hotmail.com",
+      "cnpj": "N/D",
+      "contato": "Rosana",
+      "clientes_orcados": "Fabiana e Caio Carneiro; Milene e Roger",
+      "clientes_fechados": "Milene e Roger",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Ornare",
+      "categoria": "Marcenaria",
+      "telefone": "(11) 3065-6622",
+      "email": "mariana.gaudencio@ornare.com.br",
+      "cnpj": "N/D",
+      "contato": "Mariana",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "Milene e Roger",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Parket",
+      "categoria": "Marcenaria",
+      "telefone": "(11) 96661-7276",
+      "email": "felipe@parket.com.br",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Jaqueline e Fernando; Letícia e Lucas; Milene e Roger; Ritha e Adilson",
+      "clientes_fechados": "Milene e Roger; Nandra e Eduardo",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "SCA",
+      "categoria": "Marcenaria",
+      "telefone": "11 98312-9480",
+      "email": "karina@scajdeuropa.com.br",
+      "cnpj": "",
+      "contato": "Karina",
+      "clientes_orcados": "Nandra e Eduardo",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Alonso Marmores",
+      "categoria": "Marmoraria",
+      "telefone": "(11) 2296-7240",
+      "email": "alonsomarmores@alonsomarmores.com.br",
+      "cnpj": "62.503.164/0001-99",
+      "contato": "",
+      "clientes_orcados": "—",
+      "clientes_fechados": "Carol e Moises",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Brutus Marmores",
+      "categoria": "Marmoraria",
+      "telefone": "(11) 4437-2232",
+      "email": "brutusdecor@brutusbrasil.com.br",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Pantanal Marmores",
+      "categoria": "Marmoraria",
+      "telefone": "11 99484-9775",
+      "email": "",
+      "cnpj": "",
+      "contato": "Carlos Picon",
+      "clientes_orcados": "Milene e Roger; Nandra e Eduardo",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Pedra Nobre",
+      "categoria": "Marmoraria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando; Ritha e Adilson",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Petramar",
+      "categoria": "Marmoraria",
+      "telefone": "11 96705-2027/ 11 98856-6530",
+      "email": "livia@petramar.com.br",
+      "cnpj": "",
+      "contato": "Livia / Jessica",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Santorini Marmores",
+      "categoria": "Marmoraria",
+      "telefone": "11 99190-5210",
+      "email": "",
+      "cnpj": "",
+      "contato": "Gabriela Santorini",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Stella Stone",
+      "categoria": "Marmoraria",
+      "telefone": "11 917080943",
+      "email": "Stella@boutiquedellarocca.com.br",
+      "cnpj": "",
+      "contato": "Stella - Stone",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Stone Marmi",
+      "categoria": "Marmoraria",
+      "telefone": "N/D",
+      "email": "N/D",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "Milene e Roger",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Alberflex",
+      "categoria": "Mobiliarios",
+      "telefone": "",
+      "email": "comercial@alberflex.com.br",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Artefacto",
+      "categoria": "Mobiliarios",
+      "telefone": "(11) 3816-8800",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho; Bárbara",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Brentwood",
+      "categoria": "Mobiliarios",
+      "telefone": "(11) 2141-5744",
+      "email": "bw2@brentwood.com.br",
+      "cnpj": "04.365.154/0007-23",
+      "contato": "",
+      "clientes_orcados": "Sally e Yossef",
+      "clientes_fechados": "Sally e Yossef",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Breton",
+      "categoria": "Mobiliarios",
+      "telefone": "(11) 4055-9707",
+      "email": "SISSI.FERREIRA@BRETON.COM",
+      "cnpj": "58.952.623/0001-44",
+      "contato": "",
+      "clientes_orcados": "Carol e Moises; Rodolfo Oliveira",
+      "clientes_fechados": "Carol e Moises",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Casa Design SP",
+      "categoria": "Mobiliarios",
+      "telefone": "N/D",
+      "email": "N/D",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Gecini Alphaville Tamboré; Gecini Alphaville Tamboré",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Casamineira",
+      "categoria": "Mobiliarios",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Nandra e Eduardo",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Celmar",
+      "categoria": "Mobiliarios",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Essencial Moveis",
+      "categoria": "Mobiliarios",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Etel",
+      "categoria": "Mobiliarios",
+      "telefone": "(11) 3064-1266",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Milene e Roger",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Flexform",
+      "categoria": "Mobiliarios",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Franccino",
+      "categoria": "Mobiliarios",
+      "telefone": "(11) 3043-6360",
+      "email": "shirley.sp@franccino.com.br",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Carol e Moises",
+      "clientes_fechados": "Carol e Moises",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "IN CASA",
+      "categoria": "Mobiliarios",
+      "telefone": "11 94918-3815",
+      "email": "",
+      "cnpj": "",
+      "contato": "Iago Victor",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Ilustre Moveis",
+      "categoria": "Mobiliarios",
+      "telefone": "11 93914-6462",
+      "email": "",
+      "cnpj": "",
+      "contato": "Paula Liguori",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Jader Almeida",
+      "categoria": "Mobiliarios",
+      "telefone": "66 9644-6246",
+      "email": "",
+      "cnpj": "",
+      "contato": "Rosana",
+      "clientes_orcados": "Milene e Roger; Nandra e Eduardo; Rodolfo Oliveira; Sally e Yossef",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Kinder",
+      "categoria": "Mobiliarios",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Nandra e Eduardo",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Neobambu",
+      "categoria": "Mobiliarios",
+      "telefone": "11 98834-5225",
+      "email": "claudio.brandao@neobambu.com.br",
+      "cnpj": "N/D",
+      "contato": "Claudio",
+      "clientes_orcados": "Carol e Moises; Nandra e Eduardo; Rebecca e Rony",
+      "clientes_fechados": "Carol e Moises",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Novo Ambiente",
+      "categoria": "Mobiliarios",
+      "telefone": "(11) 99246-6359",
+      "email": "davidson@novoambiente.com.br",
+      "cnpj": "N/D",
+      "contato": "Davidson",
+      "clientes_orcados": "Fabiana e Caio Carneiro; Milene e Roger",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "The Gables",
+      "categoria": "Mobiliarios",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Bella e Samuelle",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Celina Dias",
+      "categoria": "Paisagismo",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Fabiana e Caio Carneiro",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Flavia D'Urso",
+      "categoria": "Paisagismo",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Thiago e Bruna",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Gota Fertil",
+      "categoria": "Paisagismo",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Irricom",
+      "categoria": "Paisagismo",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Muda Vertical",
+      "categoria": "Paisagismo",
+      "telefone": "11 97291-5039",
+      "email": "juliana@mudavertical.com.br",
+      "cnpj": "",
+      "contato": "Juliana",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Proirrig",
+      "categoria": "Paisagismo",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Tatiana e Claudinei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Vertical Garden",
+      "categoria": "Paisagismo",
+      "telefone": "11 4873-2188 | 11 3755-0086",
+      "email": "atendimento@vgco.com.br",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Yamamura",
+      "categoria": "Paisagismo",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Branco Casa",
+      "categoria": "Papel de Parede",
+      "telefone": "11 93618-8589",
+      "email": "contato@branco.casa",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "PP e Muito Mais",
+      "categoria": "Papel de Parede",
+      "telefone": "+55 11 98297-6398",
+      "email": "contato@papeldeparedeemuitomais.com.br",
+      "cnpj": "",
+      "contato": "Carla Aguiar",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Mosarte",
+      "categoria": "Pedras",
+      "telefone": "48 3345-3077",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Cristal Pool",
+      "categoria": "Piscina",
+      "telefone": "(11) 4195-6006",
+      "email": "",
+      "cnpj": "15.302.944/0001-90",
+      "contato": "",
+      "clientes_orcados": "Aliene e José Martinho",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Eliane",
+      "categoria": "Pisos",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Portinari",
+      "categoria": "Pisos",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Indusparquet",
+      "categoria": "Pisos Vinilicos",
+      "telefone": "11 938006599",
+      "email": "alex.soares@indusparquetsp.com.br",
+      "cnpj": "",
+      "contato": "Alex Soares",
+      "clientes_orcados": "Letícia e Lucas; Nandra e Eduardo",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Inter Blindados",
+      "categoria": "Portas",
+      "telefone": "(11) 4513-5929",
+      "email": "",
+      "cnpj": "35.580.806/0001-80",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Arthur Decor",
+      "categoria": "Pérgola / Cobertura",
+      "telefone": "(11) 3087-5834",
+      "email": "juliany@arthurdecor.com.br",
+      "cnpj": "N/D",
+      "contato": "",
+      "clientes_orcados": "Gecini Alphaville Tamboré; Milene e Roger",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Fabiana Preti",
+      "categoria": "Quadros",
+      "telefone": "+55 11 992857006",
+      "email": "fabiana.preti@gmail.com",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Castelatto OrçAmento 8D99D",
+      "categoria": "Revestimentos",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Tuza - Campo Belo",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Colormix",
+      "categoria": "Revestimentos",
+      "telefone": "(11) 3060-4420",
+      "email": "",
+      "cnpj": "04.876.296/0001-60",
+      "contato": "",
+      "clientes_orcados": "Fabiana e Caio Carneiro",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Lider Interiores",
+      "categoria": "Revestimentos",
+      "telefone": "(11) 3081-6381",
+      "email": "",
+      "cnpj": "64.422.892/0045-12",
+      "contato": "",
+      "clientes_orcados": "Greicy e Azury Khafif; Isabella e Júnior; Rebecca e Rony; Rosemar e Jaime; Sirlei",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Pallimanan",
+      "categoria": "Revestimentos",
+      "telefone": "(11) 5180-7500",
+      "email": "",
+      "cnpj": "09.272.104/0001-20",
+      "contato": "",
+      "clientes_orcados": "Esther e Yossi",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Portobello",
+      "categoria": "Revestimentos",
+      "telefone": "(11) 3087-6188",
+      "email": "gabriel.sp@portobelloshop.com.br",
+      "cnpj": "05.876.012/0032-02",
+      "contato": "",
+      "clientes_orcados": "Bella e Samuelle; Esther e Yossi; Jacques; Milene e Roger; Nandra e Eduardo; Tatiana e Claudinei",
+      "clientes_fechados": "Milene e Roger; Nandra e Eduardo",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Staccato",
+      "categoria": "Revestimentos",
+      "telefone": "11 96719-0208/ 11 98303-8968",
+      "email": "N/D",
+      "cnpj": "09.375.013/0004-62",
+      "contato": "Renata",
+      "clientes_orcados": "Carol e Moises; Esther e Yossi; Jaqueline e Fernando; Sally e Yossef",
+      "clientes_fechados": "Carol e Moises; Sally e Yossef",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Ferreira Ulhoa",
+      "categoria": "Serralheria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Jaqueline e Fernando",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Dunelli",
+      "categoria": "Tapecaria",
+      "telefone": "(11) 4062-0220",
+      "email": "sac@dunelli.com.br",
+      "cnpj": "55.726.436/0001-54",
+      "contato": "Leo Carbonari",
+      "clientes_orcados": "Carol e Moises; Rodolfo Oliveira; Sally e Yossef",
+      "clientes_fechados": "Carol e Moises; Sally e Yossef",
+      "estado": "Sao Paulo",
+      "status": "Orcado + Fechado"
+    },
+    {
+      "nome": "Galeria dos Tapetes",
+      "categoria": "Tapecaria",
+      "telefone": "11 96123-7180",
+      "email": "",
+      "cnpj": "",
+      "contato": "CRISTINA",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Luciene",
+      "categoria": "Tapecaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Sally e Yossef",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Maiori Casa",
+      "categoria": "Tapecaria",
+      "telefone": "11 95596-0561",
+      "email": "",
+      "cnpj": "",
+      "contato": "Daiane",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Santa Monica",
+      "categoria": "Tapecaria",
+      "telefone": "11 96597-5797",
+      "email": "lucianaaraujo@stamonica.com.br",
+      "cnpj": "",
+      "contato": "Luciana Araujo",
+      "clientes_orcados": "Nandra e Eduardo; Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Tapetah",
+      "categoria": "Tapecaria",
+      "telefone": "11 99597-1354 / 11 99597-1354",
+      "email": "loja@tapetesdecorados.com.br",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Exceed ServiceCom",
+      "categoria": "Telefonia",
+      "telefone": "11 3564-1101",
+      "email": "",
+      "cnpj": "",
+      "contato": "Carlos Lauro",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "RDA Telecom",
+      "categoria": "Telefonia",
+      "telefone": "11 98971-3299",
+      "email": "",
+      "cnpj": "",
+      "contato": "Adaugisio",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Roger",
+      "categoria": "Telefonia",
+      "telefone": "11 97167-7122",
+      "email": "",
+      "cnpj": "",
+      "contato": "Cesar Cisten",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "So Varais",
+      "categoria": "Varais",
+      "telefone": "(11) 3231-3144 / (11) 947-840-884 / (11) 947-434-087",
+      "email": "williams@sovarais.com.br",
+      "cnpj": "",
+      "contato": "Williams Duarte",
+      "clientes_orcados": "",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Cadastrado"
+    },
+    {
+      "nome": "Casa Mansur",
+      "categoria": "Vidracaria",
+      "telefone": "11 99290-3531",
+      "email": "",
+      "cnpj": "",
+      "contato": "Rodrigo",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Cerico Vidros",
+      "categoria": "Vidracaria",
+      "telefone": "11 94763-9576",
+      "email": "",
+      "cnpj": "",
+      "contato": "Walter",
+      "clientes_orcados": "Bella e Samuelle",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "Cristal Vidros",
+      "categoria": "Vidracaria",
+      "telefone": "",
+      "email": "",
+      "cnpj": "",
+      "contato": "",
+      "clientes_orcados": "Giovana e Hugo; Ritha e Adilson",
+      "clientes_fechados": "",
+      "estado": "",
+      "status": "Orcado"
+    },
+    {
+      "nome": "SOLID",
+      "categoria": "Vidracaria",
+      "telefone": "11 98273-9110",
+      "email": "",
+      "cnpj": "",
+      "contato": "Carlos Simi",
+      "clientes_orcados": "Rodolfo Oliveira",
+      "clientes_fechados": "",
+      "estado": "Sao Paulo",
+      "status": "Orcado"
+    }
+  ],
+  "categorias": {
+    "Acabamentos Eletricos": {
+      "total": 1,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "Casa Mimosa"
+      ]
+    },
+    "Aquecimento": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Bom Calor"
+      ]
+    },
+    "Ar Condicionado": {
+      "total": 5,
+      "com_orcamento": 4,
+      "com_fechamento": 2,
+      "nomes": [
+        "AR7 Climatização",
+        "DELTA-T",
+        "Ecotemp",
+        "Mafra Emporio",
+        "Sulfrio"
+      ]
+    },
+    "Automacao": {
+      "total": 3,
+      "com_orcamento": 3,
+      "com_fechamento": 0,
+      "nomes": [
+        "Full Control",
+        "HIGHEND",
+        "Marcos Henrique"
+      ]
+    },
+    "Cortinas e Persianas": {
+      "total": 3,
+      "com_orcamento": 2,
+      "com_fechamento": 1,
+      "nomes": [
+        "Fator Tecidos",
+        "Fernando Perez",
+        "GF Premium"
+      ]
+    },
+    "Eletrodomesticos": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Miele"
+      ]
+    },
+    "Eletrodomesticos Gourmet": {
+      "total": 2,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Enjoy",
+        "UD House"
+      ]
+    },
+    "Empreiteiros": {
+      "total": 3,
+      "com_orcamento": 3,
+      "com_fechamento": 0,
+      "nomes": [
+        "Marcelo Empreiteiro",
+        "Ronilson Empreiteiro",
+        "Rui"
+      ]
+    },
+    "Engenharia": {
+      "total": 3,
+      "com_orcamento": 3,
+      "com_fechamento": 1,
+      "nomes": [
+        "Estruturas JB",
+        "ItaúNa Minerita",
+        "Protecnica"
+      ]
+    },
+    "Esquadrias": {
+      "total": 5,
+      "com_orcamento": 4,
+      "com_fechamento": 1,
+      "nomes": [
+        "Alumi",
+        "Brigate",
+        "Cinex",
+        "Domus",
+        "Via Aluminio"
+      ]
+    },
+    "Estofados / Sofás": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 1,
+      "nomes": [
+        "BelColore"
+      ]
+    },
+    "Formica": {
+      "total": 1,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "Alceu"
+      ]
+    },
+    "Gesso": {
+      "total": 3,
+      "com_orcamento": 3,
+      "com_fechamento": 0,
+      "nomes": [
+        "Simples Molde",
+        "Tensoflex",
+        "Uniplac"
+      ]
+    },
+    "Iluminacao": {
+      "total": 15,
+      "com_orcamento": 15,
+      "com_fechamento": 2,
+      "nomes": [
+        "AdeArte",
+        "Aura Luminati",
+        "Celdom",
+        "Dimlux",
+        "Labluz",
+        "Lampadario",
+        "Lampur",
+        "Lumini",
+        "Magia e Luz",
+        "Marcello Bellotto",
+        "Marcos Fanucchi",
+        "Merci Iluminacao",
+        "On Light",
+        "Quatri",
+        "Samlux"
+      ]
+    },
+    "Limpeza": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Femaclean"
+      ]
+    },
+    "Loucas e Metais": {
+      "total": 9,
+      "com_orcamento": 8,
+      "com_fechamento": 1,
+      "nomes": [
+        "Casa Reis",
+        "Deca",
+        "Docol",
+        "Kohler",
+        "LouçAs Metais Roca",
+        "Positano",
+        "Tekai",
+        "Vallve",
+        "Viveza"
+      ]
+    },
+    "Marcenaria": {
+      "total": 19,
+      "com_orcamento": 16,
+      "com_fechamento": 4,
+      "nomes": [
+        "Adriano Marcenaria",
+        "Ana Minele",
+        "Bontempo",
+        "Daniel",
+        "Fernando Jaeger",
+        "Florence",
+        "Florense",
+        "Floresta",
+        "Furlan Marcenaria",
+        "Gil Fialho",
+        "ID Moveis",
+        "Kitchens",
+        "Layanne",
+        "Malta Design",
+        "Marcos",
+        "Novaes Marcenaria",
+        "Ornare",
+        "Parket",
+        "SCA"
+      ]
+    },
+    "Marmoraria": {
+      "total": 8,
+      "com_orcamento": 5,
+      "com_fechamento": 2,
+      "nomes": [
+        "Alonso Marmores",
+        "Brutus Marmores",
+        "Pantanal Marmores",
+        "Pedra Nobre",
+        "Petramar",
+        "Santorini Marmores",
+        "Stella Stone",
+        "Stone Marmi"
+      ]
+    },
+    "Mobiliarios": {
+      "total": 18,
+      "com_orcamento": 16,
+      "com_fechamento": 4,
+      "nomes": [
+        "Alberflex",
+        "Artefacto",
+        "Brentwood",
+        "Breton",
+        "Casa Design SP",
+        "Casamineira",
+        "Celmar",
+        "Essencial Moveis",
+        "Etel",
+        "Flexform",
+        "Franccino",
+        "IN CASA",
+        "Ilustre Moveis",
+        "Jader Almeida",
+        "Kinder",
+        "Neobambu",
+        "Novo Ambiente",
+        "The Gables"
+      ]
+    },
+    "Paisagismo": {
+      "total": 8,
+      "com_orcamento": 6,
+      "com_fechamento": 0,
+      "nomes": [
+        "Celina Dias",
+        "Flavia D'Urso",
+        "Gota Fertil",
+        "Irricom",
+        "Muda Vertical",
+        "Proirrig",
+        "Vertical Garden",
+        "Yamamura"
+      ]
+    },
+    "Papel de Parede": {
+      "total": 2,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "Branco Casa",
+        "PP e Muito Mais"
+      ]
+    },
+    "Pedras": {
+      "total": 1,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "Mosarte"
+      ]
+    },
+    "Piscina": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Cristal Pool"
+      ]
+    },
+    "Pisos": {
+      "total": 2,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "Eliane",
+        "Portinari"
+      ]
+    },
+    "Pisos Vinilicos": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Indusparquet"
+      ]
+    },
+    "Portas": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Inter Blindados"
+      ]
+    },
+    "Pérgola / Cobertura": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Arthur Decor"
+      ]
+    },
+    "Quadros": {
+      "total": 1,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "Fabiana Preti"
+      ]
+    },
+    "Revestimentos": {
+      "total": 6,
+      "com_orcamento": 6,
+      "com_fechamento": 2,
+      "nomes": [
+        "Castelatto OrçAmento 8D99D",
+        "Colormix",
+        "Lider Interiores",
+        "Pallimanan",
+        "Portobello",
+        "Staccato"
+      ]
+    },
+    "Serralheria": {
+      "total": 1,
+      "com_orcamento": 1,
+      "com_fechamento": 0,
+      "nomes": [
+        "Ferreira Ulhoa"
+      ]
+    },
+    "Tapecaria": {
+      "total": 6,
+      "com_orcamento": 4,
+      "com_fechamento": 1,
+      "nomes": [
+        "Dunelli",
+        "Galeria dos Tapetes",
+        "Luciene",
+        "Maiori Casa",
+        "Santa Monica",
+        "Tapetah"
+      ]
+    },
+    "Telefonia": {
+      "total": 3,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "Exceed ServiceCom",
+        "RDA Telecom",
+        "Roger"
+      ]
+    },
+    "Varais": {
+      "total": 1,
+      "com_orcamento": 0,
+      "com_fechamento": 0,
+      "nomes": [
+        "So Varais"
+      ]
+    },
+    "Vidracaria": {
+      "total": 4,
+      "com_orcamento": 4,
+      "com_fechamento": 0,
+      "nomes": [
+        "Casa Mansur",
+        "Cerico Vidros",
+        "Cristal Vidros",
+        "SOLID"
+      ]
+    }
+  },
+  "clientes": {
+    "Aliene e José Martinho": {
+      "fornecedores": 15,
+      "categorias": [
+        "Mobiliarios",
+        "Ar Condicionado",
+        "Esquadrias",
+        "Aquecimento",
+        "Piscina",
+        "Iluminacao",
+        "Marcenaria",
+        "Eletrodomesticos Gourmet",
+        "Loucas e Metais"
+      ]
+    },
+    "Jaqueline e Fernando": {
+      "fornecedores": 18,
+      "categorias": [
+        "Revestimentos",
+        "Ar Condicionado",
+        "Esquadrias",
+        "Aquecimento",
+        "Cortinas e Persianas",
+        "Marmoraria",
+        "Portas",
+        "Serralheria",
+        "Iluminacao",
+        "Marcenaria",
+        "Eletrodomesticos Gourmet",
+        "Gesso",
+        "Empreiteiros",
+        "Paisagismo"
+      ]
+    },
+    "Letícia e Lucas": {
+      "fornecedores": 5,
+      "categorias": [
+        "Aquecimento",
+        "Pisos Vinilicos",
+        "Iluminacao",
+        "Marcenaria",
+        "Esquadrias"
+      ]
+    },
+    "Tatiana e Claudinei": {
+      "fornecedores": 11,
+      "categorias": [
+        "Revestimentos",
+        "Ar Condicionado",
+        "Aquecimento",
+        "Iluminacao",
+        "Estofados / Sofás",
+        "Esquadrias",
+        "Paisagismo",
+        "Loucas e Metais"
+      ]
+    },
+    "Milene e Roger": {
+      "fornecedores": 20,
+      "categorias": [
+        "Revestimentos",
+        "Mobiliarios",
+        "Ar Condicionado",
+        "Pérgola / Cobertura",
+        "Marmoraria",
+        "Eletrodomesticos",
+        "Iluminacao",
+        "Marcenaria",
+        "Esquadrias",
+        "Engenharia",
+        "Loucas e Metais"
+      ]
+    },
+    "Bárbara": {
+      "fornecedores": 8,
+      "categorias": [
+        "Mobiliarios",
+        "Ar Condicionado",
+        "Esquadrias",
+        "Iluminacao",
+        "Eletrodomesticos Gourmet",
+        "Loucas e Metais"
+      ]
+    },
+    "Giovana e Hugo": {
+      "fornecedores": 5,
+      "categorias": [
+        "Ar Condicionado",
+        "Vidracaria",
+        "Iluminacao",
+        "Esquadrias",
+        "Loucas e Metais"
+      ]
+    },
+    "Patricia e Luiz Claudio (Piteco)": {
+      "fornecedores": 5,
+      "categorias": [
+        "Ar Condicionado",
+        "Iluminacao",
+        "Automacao",
+        "Marcenaria",
+        "Empreiteiros"
+      ]
+    },
+    "Ritha e Adilson": {
+      "fornecedores": 7,
+      "categorias": [
+        "Ar Condicionado",
+        "Marmoraria",
+        "Vidracaria",
+        "Marcenaria",
+        "Esquadrias",
+        "Loucas e Metais"
+      ]
+    },
+    "Cristian e Luciano": {
+      "fornecedores": 1,
+      "categorias": [
+        "Ar Condicionado"
+      ]
+    },
+    "Rodolfo Oliveira": {
+      "fornecedores": 25,
+      "categorias": [
+        "Tapecaria",
+        "Mobiliarios",
+        "Vidracaria",
+        "Iluminacao",
+        "Estofados / Sofás",
+        "Automacao",
+        "Marcenaria",
+        "Paisagismo"
+      ]
+    },
+    "Esther e Yossi": {
+      "fornecedores": 12,
+      "categorias": [
+        "Revestimentos",
+        "Cortinas e Persianas",
+        "Iluminacao",
+        "Eletrodomesticos Gourmet",
+        "Gesso",
+        "Engenharia",
+        "Loucas e Metais"
+      ]
+    },
+    "Carol e Moises": {
+      "fornecedores": 9,
+      "categorias": [
+        "Tapecaria",
+        "Revestimentos",
+        "Mobiliarios",
+        "Iluminacao",
+        "Estofados / Sofás",
+        "Marcenaria",
+        "Empreiteiros"
+      ]
+    },
+    "Minas Mais": {
+      "fornecedores": 1,
+      "categorias": [
+        "Engenharia"
+      ]
+    },
+    "Rosemar e Jaime": {
+      "fornecedores": 2,
+      "categorias": [
+        "Esquadrias",
+        "Revestimentos"
+      ]
+    },
+    "Fabiana e Caio Carneiro": {
+      "fornecedores": 7,
+      "categorias": [
+        "Revestimentos",
+        "Mobiliarios",
+        "Iluminacao",
+        "Estofados / Sofás",
+        "Marcenaria",
+        "Paisagismo"
+      ]
+    },
+    "Sally e Yossef": {
+      "fornecedores": 10,
+      "categorias": [
+        "Tapecaria",
+        "Revestimentos",
+        "Mobiliarios",
+        "Limpeza",
+        "Estofados / Sofás",
+        "Marcenaria"
+      ]
+    },
+    "Daniela e Yarllei": {
+      "fornecedores": 2,
+      "categorias": [
+        "Iluminacao",
+        "Marcenaria"
+      ]
+    },
+    "Eliane e Celso": {
+      "fornecedores": 3,
+      "categorias": [
+        "Iluminacao",
+        "Loucas e Metais"
+      ]
+    },
+    "Luisa e Jadder": {
+      "fornecedores": 2,
+      "categorias": [
+        "Iluminacao",
+        "Loucas e Metais"
+      ]
+    },
+    "Maria Aparecida e Edson - (Joelson)": {
+      "fornecedores": 2,
+      "categorias": [
+        "Iluminacao"
+      ]
+    },
+    "Simone Guindi": {
+      "fornecedores": 2,
+      "categorias": [
+        "Iluminacao",
+        "Marcenaria"
+      ]
+    },
+    "Gecini Alphaville Tamboré": {
+      "fornecedores": 3,
+      "categorias": [
+        "Mobiliarios",
+        "Iluminacao",
+        "Marcenaria"
+      ]
+    },
+    "Nandra e Eduardo": {
+      "fornecedores": 14,
+      "categorias": [
+        "Tapecaria",
+        "Revestimentos",
+        "Mobiliarios",
+        "Marmoraria",
+        "Pisos Vinilicos",
+        "Iluminacao",
+        "Marcenaria",
+        "Loucas e Metais"
+      ]
+    },
+    "Iara e Marcelo": {
+      "fornecedores": 2,
+      "categorias": [
+        "Iluminacao"
+      ]
+    },
+    "Ivone e Kelson": {
+      "fornecedores": 4,
+      "categorias": [
+        "Iluminacao",
+        "Loucas e Metais"
+      ]
+    },
+    "Gecini Alphaville Tamboré": {
+      "fornecedores": 3,
+      "categorias": [
+        "Mobiliarios",
+        "Iluminacao",
+        "Pérgola / Cobertura"
+      ]
+    },
+    "Rodolfo - Fazenda Boa Vista": {
+      "fornecedores": 1,
+      "categorias": [
+        "Iluminacao"
+      ]
+    },
+    "Bella e Samuelle": {
+      "fornecedores": 6,
+      "categorias": [
+        "Revestimentos",
+        "Mobiliarios",
+        "Vidracaria",
+        "Loucas e Metais"
+      ]
+    },
+    "Jacques": {
+      "fornecedores": 2,
+      "categorias": [
+        "Revestimentos",
+        "Loucas e Metais"
+      ]
+    },
+    "Isabella e Júnior": {
+      "fornecedores": 2,
+      "categorias": [
+        "Revestimentos",
+        "Loucas e Metais"
+      ]
+    },
+    "Sirlei": {
+      "fornecedores": 2,
+      "categorias": [
+        "Revestimentos",
+        "Loucas e Metais"
+      ]
+    },
+    "Sandra e Tedy": {
+      "fornecedores": 1,
+      "categorias": [
+        "Marcenaria"
+      ]
+    },
+    "Rebecca e Rony": {
+      "fornecedores": 2,
+      "categorias": [
+        "Revestimentos",
+        "Mobiliarios"
+      ]
+    },
+    "Thiago e Bruna": {
+      "fornecedores": 1,
+      "categorias": [
+        "Paisagismo"
+      ]
+    },
+    "Tuza - Campo Belo": {
+      "fornecedores": 1,
+      "categorias": [
+        "Revestimentos"
+      ]
+    },
+    "Greicy e Azury Khafif": {
+      "fornecedores": 1,
+      "categorias": [
+        "Revestimentos"
+      ]
+    }
+  }
+}

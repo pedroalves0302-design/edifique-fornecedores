@@ -28,6 +28,7 @@
         .header .last-update { font-size: 12px; color: var(--text-muted); background: var(--bg); padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border); }
 
         .container { max-width: 1440px; margin: 0 auto; padding: 24px 40px; }
+        body:not(.authed) .header, body:not(.authed) .container { display: none; }
 
         /* KPI Cards */
         .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 24px; }
@@ -188,6 +189,15 @@
     </style>
 </head>
 <body>
+    <!-- Tela de bloqueio -->
+    <div id="lockScreen" style="display:none; position:fixed; inset:0; z-index:9999; background:var(--bg); flex-direction:column; justify-content:center; align-items:center; gap:24px;">
+        <img src="assets/logo-edifique.svg" alt="Edifique" style="height:40px; opacity:0.8;">
+        <div style="text-align:center;">
+            <h2 style="font-size:20px; font-weight:600; color:var(--text); margin-bottom:8px;">Acesso restrito</h2>
+            <p style="font-size:14px; color:var(--text-muted); max-width:360px; line-height:1.6;">Solicite o link de acesso ao administrador do projeto.</p>
+        </div>
+    </div>
+
     <div class="header">
         <div class="header-brand">
             <img src="assets/logo-edifique.svg" alt="Edifique">
@@ -903,7 +913,33 @@
         toast(`${editOriginalName} excluido`);
     }
 
-    init();
+    // ── AUTH POR TOKEN ──
+    const VALID_TOKENS = ['EDIFIQUE2026', 'edifique2026'];
+
+    function checkAuth() {
+        // 1. Checa token na URL
+        const params = new URLSearchParams(window.location.search);
+        const urlToken = params.get('token');
+        if (urlToken && VALID_TOKENS.includes(urlToken)) {
+            localStorage.setItem('edifique_auth_token', urlToken);
+            // Limpa token da URL sem recarregar
+            window.history.replaceState({}, '', window.location.pathname);
+            return true;
+        }
+        // 2. Checa token salvo no localStorage
+        const savedToken = localStorage.getItem('edifique_auth_token');
+        if (savedToken && VALID_TOKENS.includes(savedToken)) {
+            return true;
+        }
+        return false;
+    }
+
+    if (checkAuth()) {
+        document.body.classList.add('authed');
+        init();
+    } else {
+        document.getElementById('lockScreen').style.display = 'flex';
+    }
     </script>
 </body>
 </html>

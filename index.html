@@ -193,8 +193,9 @@
     <div id="lockScreen" style="display:none; position:fixed; inset:0; z-index:9999; background:var(--bg); flex-direction:column; justify-content:center; align-items:center; gap:24px;">
         <img src="assets/logo-edifique.svg" alt="Edifique" style="height:40px; opacity:0.8;">
         <div style="text-align:center;">
-            <h2 style="font-size:20px; font-weight:600; color:var(--text); margin-bottom:8px;">Acesso restrito</h2>
-            <p style="font-size:14px; color:var(--text-muted); max-width:360px; line-height:1.6;">Solicite o link de acesso ao administrador do projeto.</p>
+            <div id="lockMode" style="font-size:11px; letter-spacing:0.18em; text-transform:uppercase; color:var(--text-muted); margin-bottom:8px;">Modo protegido</div>
+            <h2 id="lockTitle" style="font-size:20px; font-weight:600; color:var(--text); margin-bottom:8px;">Acesso restrito</h2>
+            <p id="lockDescription" style="font-size:14px; color:var(--text-muted); max-width:360px; line-height:1.6;">Solicite o link de acesso ao administrador do projeto.</p>
         </div>
     </div>
 
@@ -1002,26 +1003,69 @@
     }
 
     // ── AUTH POR TOKEN ──
-    const VALID_TOKENS = ['EDIFIQUE2026', 'edifique2026'];
+    const AUTH_CONTEXTS = {
+        web: {
+            tokens: ['EDIFIQUE2026', 'edifique2026'],
+            storageKey: 'edifique_auth_token_web',
+            modeLabel: 'Versao web publicada',
+            title: 'Acesso restrito',
+            description: 'Solicite o link da versao web ao administrador do projeto.'
+        },
+        local: {
+            tokens: ['EDIFIQUELOCAL2026', 'edifiquelocal2026'],
+            storageKey: 'edifique_auth_token_local',
+            modeLabel: 'Operacao local protegida',
+            title: 'Acesso local restrito',
+            description: 'Solicite o token da operacao local ao administrador do projeto.'
+        }
+    };
+
+    function isLocalAuthContext() {
+        const localHosts = ['127.0.0.1', 'localhost'];
+        return window.location.protocol === 'file:' || localHosts.includes(window.location.hostname);
+    }
+
+    function getAuthContext() {
+        return isLocalAuthContext() ? AUTH_CONTEXTS.local : AUTH_CONTEXTS.web;
+    }
+
+    function applyLockCopy() {
+        const auth = getAuthContext();
+        document.getElementById('lockMode').textContent = auth.modeLabel;
+        document.getElementById('lockTitle').textContent = auth.title;
+        document.getElementById('lockDescription').textContent = auth.description;
+    }
+
+    function migrateLegacyAuthToken(auth) {
+        const legacyToken = localStorage.getItem('edifique_auth_token');
+        if (!legacyToken) return;
+        if (auth.tokens.includes(legacyToken)) {
+            localStorage.setItem(auth.storageKey, legacyToken);
+        }
+        localStorage.removeItem('edifique_auth_token');
+    }
 
     function checkAuth() {
+        const auth = getAuthContext();
+        migrateLegacyAuthToken(auth);
         // 1. Checa token na URL
         const params = new URLSearchParams(window.location.search);
         const urlToken = params.get('token');
-        if (urlToken && VALID_TOKENS.includes(urlToken)) {
-            localStorage.setItem('edifique_auth_token', urlToken);
+        if (urlToken && auth.tokens.includes(urlToken)) {
+            localStorage.setItem(auth.storageKey, urlToken);
             // Limpa token da URL sem recarregar
             window.history.replaceState({}, '', window.location.pathname);
             return true;
         }
         // 2. Checa token salvo no localStorage
-        const savedToken = localStorage.getItem('edifique_auth_token');
-        if (savedToken && VALID_TOKENS.includes(savedToken)) {
+        const savedToken = localStorage.getItem(auth.storageKey);
+        if (savedToken && auth.tokens.includes(savedToken)) {
             return true;
         }
         return false;
     }
 
+    applyLockCopy();
     if (checkAuth()) {
         document.body.classList.add('authed');
         init();
